@@ -33,3 +33,7 @@ a)Sýna breytingar milli færslna (commits).
 b)Sýna breytingar milli færslna í svokallaða "staged" svæði. 
   Er að sýna þær breytingar sem búið er að committa en ekki push-a
 c)Sýnir breytingar milli commit1 og commit2
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+Svar:
+Það er system sem heldur um allar breytingar sem hafa verið gerðar á gögnum eða möppum. Svo þú getur séð hvað þú gerðir og umbreytt þeim aftur tilbaka.
