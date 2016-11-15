@@ -40,7 +40,7 @@ Svar:
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 Svar:
-Getur unnið offline, Fljótt að vinna með, létt að færa eða bæta við gögnum.
+Getur unnið offline, Fljótt að vinna með, létt að færa eða bæta við gögnum. Hægt að ná gögnum aftur ef þau eyðast.
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 Svar:
