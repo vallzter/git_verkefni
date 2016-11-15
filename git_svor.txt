@@ -58,3 +58,5 @@ Repository:Heldur um allar breytingar á verkefninu sjálfu.
 Svar:
 Greinar eru partur af öllum kóðum í git. Hvort sem þú vilt bæta, eyða eða laga greinar, þá koma greinar í veg fyrir að fullkomni góðinn gallist ekki á lélega kóðanum sem er á "grein". 
 Þetta gefur þér semsagt tækifæri til að hreinsa kóðan þinn án þess að skaða stóra kóðan.
+
+Valgeir Ingi Þórðarson
