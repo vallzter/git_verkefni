@@ -37,3 +37,7 @@ c)Sýnir breytingar milli commit1 og commit2
 4. 	Hvað er útgáfustýring (e.version control)? 
 Svar:
 Það er system sem heldur um allar breytingar sem hafa verið gerðar á gögnum eða möppum. Svo þú getur séð hvað þú gerðir og umbreytt þeim aftur tilbaka.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+Svar:
+Getur unnið offline, Fljótt að vinna með, létt að færa eða bæta við gögnum.
