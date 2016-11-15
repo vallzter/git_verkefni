@@ -10,3 +10,16 @@ cd ~: Þetta er notað sem shortcut. Til að fara í heimafolder notandans sem e
 ls: Skipunin er notuð til að lista upp allar skrár og möppur á þeirr slóð sem að notandinn er á hverju sinni.
 pwd: Skipunin er notuð til að sýna fulla slóð þeirrar möppu sem notandinn er staddur í.
 mkdir: Er notað til að búa til ný directories. Stytting á "make directory"
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+Svör
+git clone: Downloadar verkefni og allri fortíð þessara útgáfu.
+git log: Sýna breytingafærslur(commit logs)
+git status: Sýna núverandi stöðu
+git diff: Sýna breytingar milli færslna (commits).
+git checkout: Skiptir á milli greina (branches) eða endurheimtir stöðu núverandi greinar.
