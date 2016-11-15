@@ -41,3 +41,9 @@ Svar:
 5.	Hverjir eru helstu kostir við að nota GIT?
 Svar:
 Getur unnið offline, Fljótt að vinna með, létt að færa eða bæta við gögnum.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+Svar:
+Því fleiri commit sem gerð eru því auðveldara er að rekja breytingar og því tel ég að það eigi að commit-a mjög reglulega. 
+Það er mjög jákvætt ef hægt er að hugsa verkefnið sem á við hverju sinni í nokkrum skrefum og reyna að commit-a eftir hvert skref. 
+Hinsvegar ber að varast að commit-a þegar að kóðinn inniheldur brotin test eða að hann þýði (compiles) ekki.
