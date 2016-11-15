@@ -23,3 +23,13 @@ git log: Sýna breytingafærslur(commit logs)
 git status: Sýna núverandi stöðu
 git diff: Sýna breytingar milli færslna (commits).
 git checkout: Skiptir á milli greina (branches) eða endurheimtir stöðu núverandi greinar.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+Svör
+a)Sýna breytingar milli færslna (commits).
+b)Sýna breytingar milli færslna í svokallaða "staged" svæði. 
+  Er að sýna þær breytingar sem búið er að committa en ekki push-a
+c)Sýnir breytingar milli commit1 og commit2
