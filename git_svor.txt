@@ -53,3 +53,8 @@ Svar
 Working directory:Er einn af þremur "trees" í repository og það heldur um öll actual files'in
 Staging area:Er file sem er vanalega í git directory'inu sem heldur um upplýsingar um hvað fer næst í commit.
 Repository:Heldur um allar breytingar á verkefninu sjálfu.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+Svar:
+Greinar eru partur af öllum kóðum í git. Hvort sem þú vilt bæta, eyða eða laga greinar, þá koma greinar í veg fyrir að fullkomni góðinn gallist ekki á lélega kóðanum sem er á "grein". 
+Þetta gefur þér semsagt tækifæri til að hreinsa kóðan þinn án þess að skaða stóra kóðan.
