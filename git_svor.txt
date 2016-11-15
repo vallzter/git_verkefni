@@ -1,0 +1,12 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd
+	cd ~
+	ls
+	pwd
+	mkdir
+Svör
+cd: Er notað til að breyta/skipta um skrá, sem er verið að nota. cd þýðir "change directory".
+cd ~: Þetta er notað sem shortcut. Til að fara í heimafolder notandans sem er loggaður inn.
+ls: Skipunin er notuð til að lista upp allar skrár og möppur á þeirr slóð sem að notandinn er á hverju sinni.
+pwd: Skipunin er notuð til að sýna fulla slóð þeirrar möppu sem notandinn er staddur í.
+mkdir: Er notað til að búa til ný directories. Stytting á "make directory"
