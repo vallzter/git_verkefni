@@ -47,3 +47,9 @@ Svar:
 Því fleiri commit sem gerð eru því auðveldara er að rekja breytingar og því tel ég að það eigi að commit-a mjög reglulega. 
 Það er mjög jákvætt ef hægt er að hugsa verkefnið sem á við hverju sinni í nokkrum skrefum og reyna að commit-a eftir hvert skref. 
 Hinsvegar ber að varast að commit-a þegar að kóðinn inniheldur brotin test eða að hann þýði (compiles) ekki.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+Svar
+Working directory:Er einn af þremur "trees" í repository og það heldur um öll actual files'in
+Staging area:Er file sem er vanalega í git directory'inu sem heldur um upplýsingar um hvað fer næst í commit.
+Repository:Heldur um allar breytingar á verkefninu sjálfu.
